@@ -8,3 +8,4 @@ class BrewerySave(BaseModel):
     city: str
     phoneNum: str
     brewType: str
+    website_url: str
